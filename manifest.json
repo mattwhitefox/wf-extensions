@@ -1,0 +1,12 @@
+{
+    "name": "White Fox Extensions",
+    "version": "1.0.0",
+    "permissions": ["activeTab", "storage"],
+    "description": "A Chrome Extension leveraging John's repositiory wf-utilities into a handy UI.",
+    "manifest_version": 3,
+    "author": "Matt Saunders",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Welcome to WF Extensions"
+    }
+}
